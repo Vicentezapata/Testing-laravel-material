@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\laragon\www\Testing-laravel-material\phpunit.dusk.xml" tests="1" assertions="2" errors="0" failures="0" skipped="0" time="11.927850">
+    <testsuite name="Browser Test Suite" tests="1" assertions="2" errors="0" failures="0" skipped="0" time="11.927850">
+      <testsuite name="Tests\Browser\CrearTaskTest" file="C:\laragon\www\Testing-laravel-material\tests\Browser\CrearTaskTest.php" tests="1" assertions="2" errors="0" failures="0" skipped="0" time="11.927850">
+        <testcase name="test_crear_tarea" file="C:\laragon\www\Testing-laravel-material\tests\Browser\CrearTaskTest.php" line="17" class="Tests\Browser\CrearTaskTest" classname="Tests.Browser.CrearTaskTest" assertions="2" time="11.927850">
+          <system-out>
+</system-out>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+
+Warning: TTY mode is not supported on Windows platform.
+
+
+   PASS  Tests\Browser\CrearTaskTest
+  ✓ crear tarea                                                                       5.75s  
+
+  Tests:    1 passed (2 assertions)
+  Duration: 6.89s
+
